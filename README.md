@@ -19,4 +19,4 @@ installation
 git clone https://github.com/umashankar-11/real-time-chat-app.git
 
 technologies used
-java.
+JAVA
