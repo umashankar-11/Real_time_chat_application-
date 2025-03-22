@@ -25,5 +25,6 @@ technologies used
 JAVA
 
 
-![WhatsApp Image 2025-03-13 at 18 19 58_c89881ba](https://github.com/user-attachments/assets/d61abe02-6ffa-425f-9ef6-260c8c558adc)
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/edeec03b-814d-4b7b-8ed7-f99c986a1a3d" />
+
 
