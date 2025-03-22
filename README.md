@@ -24,6 +24,8 @@ git clone https://github.com/umashankar-11/real-time-chat-app.git
 technologies used
 JAVA
 
+outcome of this project
+
 
 <img width="728" alt="image" src="https://github.com/user-attachments/assets/edeec03b-814d-4b7b-8ed7-f99c986a1a3d" />
 
