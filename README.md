@@ -23,3 +23,7 @@ git clone https://github.com/umashankar-11/real-time-chat-app.git
 
 technologies used
 JAVA
+
+
+![WhatsApp Image 2025-03-13 at 18 19 58_c89881ba](https://github.com/user-attachments/assets/d61abe02-6ffa-425f-9ef6-260c8c558adc)
+
